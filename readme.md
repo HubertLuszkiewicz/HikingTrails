@@ -32,14 +32,14 @@ Aplikacja "Szlaki Turystyczne" pozwala użytkownikom przeglądać listę szlakó
     *   Zalecenia dotyczące bezpieczeństwa
     *   Informacje o pogodzie (lub zalecenia z nią związane)
 *   **Stoper:** Wbudowany prosty stoper z funkcjami Start/Reset do mierzenia czasu aktywności na szlaku.
-*
+
 ## Technologie
 
 *   **Język:** Kotlin
 *   **Interfejs użytkownika:** Jetpack Compose
 *   **Nawigacja:** Jetpack Navigation Component (Compose)
 *   **Zarządzanie stanem:** ViewModel
-*   **(Opcjonalnie) Baza danych:** Room Persistence Library
+*   **Baza danych:** Room Persistence Library
 
 ## Jak zacząć
 
